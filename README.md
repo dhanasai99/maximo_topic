@@ -16,7 +16,7 @@ Maximo interview  prep with examples ( this repo  is  to revise your  maximo kno
 # Maximo  Functional Knowledge
 1. Asset Life Cycle
 2. Work order Managment
-3. PUrchase and procurement
+3. Purchase and procurement
 
 ## 📘 Disclaimer
 
