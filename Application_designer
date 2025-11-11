@@ -1,0 +1,12 @@
+# Application Designer 
+Application Designer is a Maximo configuration tool used to customize the user interface (UI) of applications — without writing Java code.
+It allows you to:
+* Modify or create application layouts (like Work Order Tracking, Asset, Location, etc.)
+* Add or remove fields, tabs, tables, buttons
+* Control visibility and access
+* Add custom dialogs or launch points for automation scripts
+* All this can be done visually through the Maximo UI.
+In Maximo, we can create three types of applications using Application Designer:
+1️⃣ Power Applications – Full-featured apps for advanced users (e.g., Work Order Tracking).
+2️⃣ Self-Service Applications – Simplified apps for end users (e.g., Service Request).
+3️⃣ Single Page Applications – Modern, fast apps used in Work Centers or mobile environments.
