@@ -11,3 +11,5 @@ Maximo interview  prep with examples ( this repo  is  to revise your  maximo kno
 9. Basic  class file  changes 
 10. Workflow (Designer  &  Administration)
 11. Migration  Manager
+12.Maximo Intigration Framework (MIF)
+13. conditional Expression 
